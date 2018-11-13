@@ -4,7 +4,7 @@ The Feed Reader Testing project made for the completion of the Udacity's Front E
 
 ## Instructions
 ```
-Open https://vincentwings.github.io/feed-reader-testing/ 
+Open https://vincentwings.github.io/Feed-Reader-Testing/ 
 or Download / clone the repository :
-https://github.com/VincentWings/feed-reader-testing.git and open index.html
+https://github.com/VincentWings/Feed-Reader-Testing.git and open index.html
 ```
