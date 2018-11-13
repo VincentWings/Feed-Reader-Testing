@@ -136,12 +136,11 @@ $(function() {
 
             loadFeed(0, function () {
                 entriesStart = $('.feed').find(allFeeds.url);
-                done();
-            });
-
-            loadFeed(1, function () {
-                entriesEnd = $('.feed').find(allFeeds.url);
-                done();
+                
+                loadFeed(1, function () {
+                    entriesEnd = $('.feed').find(allFeeds.url);
+                    done();
+                });
             });
 
         });
